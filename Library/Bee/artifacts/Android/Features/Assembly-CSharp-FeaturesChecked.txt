@@ -1,0 +1,5 @@
+UnityEngine.Networking
+UnityEngine.Network
+UnityEngine.Networking.UnityWebRequest
+UnityEngine.Handheld::Vibrate
+UnityEngine.Input::get_touches

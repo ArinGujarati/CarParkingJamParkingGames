@@ -1,0 +1,2535 @@
+fileFormatVersion: 2
+guid: 888dcaeb0ea1948f1b30f8261374fba0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -25601782588392989
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_0
+  - first:
+      213: -2888309933517940244
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_1
+  - first:
+      213: 7563243745351351652
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_2
+  - first:
+      213: -5527234053357832775
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_3
+  - first:
+      213: -1700144605141058357
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_4
+  - first:
+      213: 8418872162133560159
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_5
+  - first:
+      213: -5633562902018872224
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_6
+  - first:
+      213: -761482373384650800
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_7
+  - first:
+      213: -8551852284334349018
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_8
+  - first:
+      213: 1850066410421477550
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_9
+  - first:
+      213: 2422376899394398761
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_10
+  - first:
+      213: -5170929689251619008
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_11
+  - first:
+      213: 2762014402533902831
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_12
+  - first:
+      213: 3267734381142230017
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_13
+  - first:
+      213: 4282684216172623619
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_14
+  - first:
+      213: 7385565739494718953
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_15
+  - first:
+      213: -4426310055370424470
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_16
+  - first:
+      213: 2036601094738604543
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_17
+  - first:
+      213: 3395530361891802599
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_18
+  - first:
+      213: -653147854814967628
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_19
+  - first:
+      213: -2912949196586102397
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_20
+  - first:
+      213: -2042720682872183217
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_21
+  - first:
+      213: -7274832991813092450
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_22
+  - first:
+      213: 5917430236136944726
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_23
+  - first:
+      213: -9180257587583224545
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_24
+  - first:
+      213: -713840485867489703
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_25
+  - first:
+      213: 8373078383587744086
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_26
+  - first:
+      213: -719897843347273891
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_27
+  - first:
+      213: 2576188320697530859
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_28
+  - first:
+      213: -2642706493814003233
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_29
+  - first:
+      213: 3922000441837143106
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_30
+  - first:
+      213: 4087511008602902342
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_31
+  - first:
+      213: 5790740308323136913
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_32
+  - first:
+      213: -8408401104883264547
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_33
+  - first:
+      213: 8343315395515107519
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_34
+  - first:
+      213: -676523119137648428
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_35
+  - first:
+      213: 4372120033627877870
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_36
+  - first:
+      213: 4721268730131582543
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_37
+  - first:
+      213: 1430451984448876787
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_38
+  - first:
+      213: -53802604389324867
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_39
+  - first:
+      213: 4296264978787579246
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_40
+  - first:
+      213: 5106364281858832622
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_41
+  - first:
+      213: -3923590902610996973
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_42
+  - first:
+      213: 7419315761108238074
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_43
+  - first:
+      213: 5507640734134978115
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_44
+  - first:
+      213: -8100066823716202586
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_45
+  - first:
+      213: -6080670464631424074
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_46
+  - first:
+      213: -5228606878764450194
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_47
+  - first:
+      213: 6856503366020660607
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_48
+  - first:
+      213: 3723764034107792659
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_49
+  - first:
+      213: -6105947518014917173
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_50
+  - first:
+      213: 7717981935684569554
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_51
+  - first:
+      213: -1662011250167096989
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_52
+  - first:
+      213: 6683296371427201820
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_53
+  - first:
+      213: -4888027803485520681
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_54
+  - first:
+      213: 5941921304094767895
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_55
+  - first:
+      213: 1843299696035190695
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_56
+  - first:
+      213: 1095071664608935301
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_57
+  - first:
+      213: -8763282215458377803
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_58
+  - first:
+      213: -3351001841687285902
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_59
+  - first:
+      213: 1604098431103599803
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_60
+  - first:
+      213: 5015594066895393926
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_61
+  - first:
+      213: 6749823321801992102
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_62
+  - first:
+      213: -7117780607217195476
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_63
+  - first:
+      213: 3555002442423269457
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_64
+  - first:
+      213: 4150274482341248406
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_65
+  - first:
+      213: 2526957004276590699
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_66
+  - first:
+      213: 2551357582504135729
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_67
+  - first:
+      213: -167858657701332896
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_68
+  - first:
+      213: 5526879574308644066
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_69
+  - first:
+      213: -3837784104082129494
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_70
+  - first:
+      213: 7258083261121422419
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_71
+  - first:
+      213: 1089267484077798988
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_72
+  - first:
+      213: -131198116749043989
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_73
+  - first:
+      213: 6834408118000410654
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_74
+  - first:
+      213: 4167649001159177697
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_75
+  - first:
+      213: 1609455136503729388
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_76
+  - first:
+      213: 8036380458388357132
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_77
+  - first:
+      213: 453135279564502090
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_78
+  - first:
+      213: -6842165380192578680
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_79
+  - first:
+      213: -2898694879093601674
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_80
+  - first:
+      213: 2327388100114360573
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_81
+  - first:
+      213: -2925498561243428221
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_82
+  - first:
+      213: 5555031434430966663
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_83
+  - first:
+      213: -5374801369768951238
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_84
+  - first:
+      213: -6205722829089309071
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_85
+  - first:
+      213: 1898363178759915368
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_86
+  - first:
+      213: -2280294245037054102
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_87
+  - first:
+      213: -4627278999512211928
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_88
+  - first:
+      213: 5405317728327064338
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_89
+  - first:
+      213: -6592270468604047217
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_90
+  - first:
+      213: 1095957761481239463
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_91
+  - first:
+      213: 5139838912484621746
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_92
+  - first:
+      213: -1435680617086037289
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_93
+  - first:
+      213: -7453061333581953138
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_94
+  - first:
+      213: -6551799591487841950
+    second: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_95
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 898
+        width: 85
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9b33b705b05aff0800000000000000
+      internalID: -25601782588392989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 909
+        width: 92
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce95e6b1b69aae7d0800000000000000
+      internalID: -2888309933517940244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 909
+        width: 92
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dbc575d1a06f860800000000000000
+      internalID: 7563243745351351652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_3
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 909
+        width: 92
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5f92bb9e15b43b0800000000000000
+      internalID: -5527234053357832775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_4
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 909
+        width: 92
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc35c74d7fd768e0800000000000000
+      internalID: -1700144605141058357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_5
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 909
+        width: 92
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b456950a7d5d470800000000000000
+      internalID: 8418872162133560159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_6
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 909
+        width: 92
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ca855736091d1b0800000000000000
+      internalID: -5633562902018872224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_7
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 909
+        width: 92
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfbfafd0dbae65f0800000000000000
+      internalID: -761482373384650800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_8
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 909
+        width: 92
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62563a438a7b15980800000000000000
+      internalID: -8551852284334349018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_9
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 909
+        width: 92
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0ed042991cca910800000000000000
+      internalID: 1850066410421477550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_10
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 898
+        width: 87
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ae388a4f20e9120800000000000000
+      internalID: 2422376899394398761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 778
+        width: 85
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fd2a928da2d38b0800000000000000
+      internalID: -5170929689251619008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 800
+        width: 92
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9cb8f1775a45620800000000000000
+      internalID: 2762014402533902831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_13
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 800
+        width: 92
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10440504b13595d20800000000000000
+      internalID: 3267734381142230017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_14
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 800
+        width: 92
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307342e9a962f6b30800000000000000
+      internalID: 4282684216172623619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_15
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 789
+        width: 87
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edb0efd8ecce7660800000000000000
+      internalID: 7385565739494718953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_16
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 791
+        width: 87
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ff7ebc4769292c0800000000000000
+      internalID: -4426310055370424470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_17
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 791
+        width: 87
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1f011c7e5734c10800000000000000
+      internalID: 2036601094738604543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_18
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 791
+        width: 87
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed4d94bfd85f1f20800000000000000
+      internalID: 3395530361891802599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_19
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 791
+        width: 87
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b802ff8c7d8fe6f0800000000000000
+      internalID: -653147854814967628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_20
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 791
+        width: 87
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381d9b0a3202397d0800000000000000
+      internalID: -2912949196586102397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_21
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 780
+        width: 87
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f466f0a9c5cc6a3e0800000000000000
+      internalID: -2042720682872183217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 658
+        width: 85
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b30ba00f99a0b90800000000000000
+      internalID: -7274832991813092450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_23
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 680
+        width: 87
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6543918a27fee1250800000000000000
+      internalID: 5917430236136944726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 680
+        width: 87
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f157489fc5c299080800000000000000
+      internalID: -9180257587583224545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_25
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 682
+        width: 87
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95673953cdde716f0800000000000000
+      internalID: -713840485867489703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_26
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 671
+        width: 87
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659df3a6d66233470800000000000000
+      internalID: 8373078383587744086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_27
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 673
+        width: 87
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5747b4c9b86206f0800000000000000
+      internalID: -719897843347273891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_28
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 675
+        width: 87
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9bfa1e0a570c320800000000000000
+      internalID: 2576188320697530859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_29
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 675
+        width: 87
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9299e0278335bd0800000000000000
+      internalID: -2642706493814003233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_30
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 675
+        width: 87
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244c0a84f9ebd6630800000000000000
+      internalID: 3922000441837143106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_31
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 675
+        width: 87
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f46431b91c9b830800000000000000
+      internalID: 4087511008602902342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_32
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 664
+        width: 87
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195f22831a7dc5050800000000000000
+      internalID: 5790740308323136913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 538
+        width: 85
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd35e66aebb5f4b80800000000000000
+      internalID: -8408401104883264547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_34
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 562
+        width: 87
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8c9beb52969c370800000000000000
+      internalID: 8343315395515107519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_35
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 564
+        width: 87
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d01679bec18c96f0800000000000000
+      internalID: -676523119137648428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_36
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 564
+        width: 87
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee132cf8104ecac30800000000000000
+      internalID: 4372120033627877870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_37
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 555
+        width: 87
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e07ac45e0558140800000000000000
+      internalID: 4721268730131582543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_38
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 557
+        width: 87
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0f351408cf9d310800000000000000
+      internalID: 1430451984448876787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_39
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 559
+        width: 87
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7226df0dad04ff0800000000000000
+      internalID: -53802604389324867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_40
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 564
+        width: 87
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65b5915c366f9b30800000000000000
+      internalID: 4296264978787579246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_41
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 564
+        width: 87
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee830f972437dd640800000000000000
+      internalID: 5106364281858832622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_42
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 564
+        width: 87
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311dae5bcda9c89c0800000000000000
+      internalID: -3923590902610996973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_43
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 553
+        width: 87
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe30512064b6f660800000000000000
+      internalID: 7419315761108238074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 418
+        width: 85
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346469421121f6c40800000000000000
+      internalID: 5507640734134978115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_45
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 446
+        width: 87
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7187bc328c69f80800000000000000
+      internalID: -8100066823716202586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_46
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 448
+        width: 87
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb3f6fdd6e1d9ba0800000000000000
+      internalID: -6080670464631424074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_47
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 448
+        width: 87
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6eb4110fb14077b0800000000000000
+      internalID: -5228606878764450194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_48
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 444
+        width: 87
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d7eeceb71372f50800000000000000
+      internalID: 6856503366020660607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_49
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 446
+        width: 87
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dde50e8a77da330800000000000000
+      internalID: 3723764034107792659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_50
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 448
+        width: 87
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5fa834511534ba0800000000000000
+      internalID: -6105947518014917173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_51
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 453
+        width: 87
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d94c5bcda7cb1b60800000000000000
+      internalID: 7717981935684569554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_52
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 455
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369561dd2995fe8e0800000000000000
+      internalID: -1662011250167096989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_53
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 455
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c135393e3a6dfbc50800000000000000
+      internalID: 6683296371427201820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_54
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 444
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc33015c9c3a2cb0800000000000000
+      internalID: -4888027803485520681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 298
+        width: 85
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bf4e5c1f1f57250800000000000000
+      internalID: 5941921304094767895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_56
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 335
+        width: 87
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a753ccae47b49910800000000000000
+      internalID: 1843299696035190695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_57
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 337
+        width: 87
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d7c9480e9723f00800000000000000
+      internalID: 1095071664608935301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_58
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 337
+        width: 87
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfea114141926680800000000000000
+      internalID: -8763282215458377803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_59
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 335
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fac805499de71d0800000000000000
+      internalID: -3351001841687285902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_60
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 337
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb401b23607e24610800000000000000
+      internalID: 1604098431103599803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_61
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 339
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6845bd6ea38fa9540800000000000000
+      internalID: 5015594066895393926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_62
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 344
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7a7a09c803cad50800000000000000
+      internalID: 6749823321801992102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_63
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 346
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26a7a5df30983d90800000000000000
+      internalID: -7117780607217195476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_64
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 346
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158f84cd2e7e55130800000000000000
+      internalID: 3555002442423269457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_65
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 335
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d715017acb89930800000000000000
+      internalID: 4150274482341248406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_66
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 178
+        width: 85
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68679ac10e811320800000000000000
+      internalID: 2526957004276590699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_67
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 226
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c8820243e386320800000000000000
+      internalID: 2551357582504135729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_68
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 228
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068fc3fa075abadf0800000000000000
+      internalID: -167858657701332896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_69
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 234
+        width: 87
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4670fa0bb63bc40800000000000000
+      internalID: 5526879574308644066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_70
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 232
+        width: 87
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad3b87d0b37dbac0800000000000000
+      internalID: -3837784104082129494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_71
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 234
+        width: 87
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354e9516544e9b460800000000000000
+      internalID: 7258083261121422419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_72
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 236
+        width: 87
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4637dd610bdd1f00800000000000000
+      internalID: 1089267484077798988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_73
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 241
+        width: 87
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be619f70204ed2ef0800000000000000
+      internalID: -131198116749043989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_74
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 243
+        width: 87
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10e57b19f1b8de50800000000000000
+      internalID: 6834408118000410654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_75
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 243
+        width: 87
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5ba967fa676d930800000000000000
+      internalID: 4167649001159177697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_76
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 0
+        width: 120
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec8b3d5beee55610800000000000000
+      internalID: 1609455136503729388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_77
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 58
+        width: 85
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c000126c275f68f60800000000000000
+      internalID: 8036380458388357132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_78
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 123
+        width: 87
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44b3adc22cd94600800000000000000
+      internalID: 453135279564502090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_79
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 125
+        width: 87
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883552b86debb01a0800000000000000
+      internalID: -6842165380192578680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_80
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 131
+        width: 87
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ac16b8d54c5c7d0800000000000000
+      internalID: -2898694879093601674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_81
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 134
+        width: 87
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8a9c1652b8c4020800000000000000
+      internalID: 2327388100114360573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_82
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 136
+        width: 87
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a4b2afe8a8667d0800000000000000
+      internalID: -2925498561243428221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_83
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 138
+        width: 87
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78be26568af671d40800000000000000
+      internalID: 5555031434430966663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_84
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 139
+        width: 87
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3283a091aed865b0800000000000000
+      internalID: -5374801369768951238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_85
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 139
+        width: 87
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e799d57f7d0e9a0800000000000000
+      internalID: -6205722829089309071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_86
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 145
+        width: 87
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8678aacc047585a10800000000000000
+      internalID: 1898363178759915368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_87
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 18
+        width: 80
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67e2353774ca50e0800000000000000
+      internalID: -2280294245037054102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_88
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 18
+        width: 80
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e137d244a98cfb0800000000000000
+      internalID: -4627278999512211928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_89
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 22
+        width: 87
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b5e07d5db830b40800000000000000
+      internalID: 5405317728327064338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_90
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 28
+        width: 87
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80de87afec8384a0800000000000000
+      internalID: -6592270468604047217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_91
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 31
+        width: 87
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abebe507cf953f00800000000000000
+      internalID: 1095957761481239463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_92
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 33
+        width: 87
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd30654240645740800000000000000
+      internalID: 5139838912484621746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_93
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 40
+        width: 87
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d25ca7d510731ce0800000000000000
+      internalID: -1435680617086037289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_94
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 41
+        width: 87
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8706a28438619890800000000000000
+      internalID: -7453061333581953138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_95
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 47
+        width: 87
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26951d50cf45315a0800000000000000
+      internalID: -6551799591487841950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_90: -6592270468604047217
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_4: -1700144605141058357
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_30: 3922000441837143106
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_93: -1435680617086037289
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_92: 5139838912484621746
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_34: 8343315395515107519
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_59: -3351001841687285902
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_32: 5790740308323136913
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_24: -9180257587583224545
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_36: 4372120033627877870
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_8: -8551852284334349018
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_77: 8036380458388357132
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_2: 7563243745351351652
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_28: 2576188320697530859
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_15: 7385565739494718953
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_85: -6205722829089309071
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_60: 1604098431103599803
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_88: -4627278999512211928
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_81: 2327388100114360573
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_20: -2912949196586102397
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_64: 3555002442423269457
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_33: -8408401104883264547
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_71: 7258083261121422419
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_12: 2762014402533902831
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_18: 3395530361891802599
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_55: 5941921304094767895
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_23: 5917430236136944726
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_44: 5507640734134978115
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_19: -653147854814967628
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_62: 6749823321801992102
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_42: -3923590902610996973
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_3: -5527234053357832775
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_70: -3837784104082129494
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_16: -4426310055370424470
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_29: -2642706493814003233
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_39: -53802604389324867
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_10: 2422376899394398761
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_31: 4087511008602902342
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_25: -713840485867489703
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_27: -719897843347273891
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_83: 5555031434430966663
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_11: -5170929689251619008
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_75: 4167649001159177697
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_38: 1430451984448876787
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_21: -2042720682872183217
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_69: 5526879574308644066
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_50: -6105947518014917173
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_89: 5405317728327064338
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_46: -6080670464631424074
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_1: -2888309933517940244
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_79: -6842165380192578680
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_54: -4888027803485520681
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_86: 1898363178759915368
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_13: 3267734381142230017
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_40: 4296264978787579246
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_48: 6856503366020660607
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_35: -676523119137648428
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_0: -25601782588392989
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_72: 1089267484077798988
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_57: 1095071664608935301
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_76: 1609455136503729388
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_80: -2898694879093601674
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_74: 6834408118000410654
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_66: 2526957004276590699
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_37: 4721268730131582543
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_9: 1850066410421477550
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_53: 6683296371427201820
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_5: 8418872162133560159
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_43: 7419315761108238074
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_47: -5228606878764450194
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_68: -167858657701332896
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_22: -7274832991813092450
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_61: 5015594066895393926
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_56: 1843299696035190695
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_67: 2551357582504135729
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_84: -5374801369768951238
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_94: -7453061333581953138
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_78: 453135279564502090
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_51: 7717981935684569554
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_26: 8373078383587744086
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_82: -2925498561243428221
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_87: -2280294245037054102
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_45: -8100066823716202586
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_52: -1662011250167096989
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_7: -761482373384650800
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_58: -8763282215458377803
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_73: -131198116749043989
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_95: -6551799591487841950
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_65: 4150274482341248406
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_49: 3723764034107792659
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_14: 4282684216172623619
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_41: 5106364281858832622
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_6: -5633562902018872224
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_91: 1095957761481239463
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_17: 2036601094738604543
+      emoji-animation-sprite-sheet-text-alphabet-sweets-food-transparent-png-738772_63: -7117780607217195476
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

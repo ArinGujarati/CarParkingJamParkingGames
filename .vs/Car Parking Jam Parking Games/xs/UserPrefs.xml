@@ -1,0 +1,42 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/1 Devloper/Scripts/DDOL.cs">
+    <Files>
+      <File FileName="Assets/1 Devloper/Scripts/Car.cs" Line="64" Column="16" IsPinned="True" />
+      <File FileName="Assets/1 Devloper/Scripts/ManagerStart.cs" />
+      <File FileName="Assets/1 Devloper/Scripts/Loading.cs" />
+      <File FileName="Assets/1 Devloper/Scripts/Vibration.cs" />
+      <File FileName="Assets/1 Devloper/Scripts/WinColider.cs" />
+      <File FileName="Assets/1 Devloper/Scripts/WinScripts.cs" />
+      <File FileName="Assets/1 Devloper/Scripts/Wall.cs" />
+      <File FileName="Assets/1 Devloper/Scripts/DDOL.cs" Line="5" Column="18" />
+      <File FileName="Assets/1 Devloper/Scripts/LevelOnOff.cs" />
+      <File FileName="Assets/Unity-Logs-Viewer/Reporter/Reporter.cs" />
+      <File FileName="Assets/1 Devloper/Rps/Rps.cs" />
+      <File FileName="Assets/1 Devloper/Scripts/GameManager.cs" Line="132" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Car Parking Jam Parking Games" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="1 Devloper" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="DDOL.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="77830da1-a192-46af-aea7-c63992103e8a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
